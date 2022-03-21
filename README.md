@@ -30,3 +30,14 @@ Original data
 
 Adjusted data
 <img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_school.PNG" width="700">
+
+* How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools
+
+The first analysis shows Thomas High School ranked 2nd in the district. What made the board request more information and details on this data, suspecting validity on this data.
+After adjusting the 9th grade data, Thomas High School ranked at 8th place.
+
+Original data
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Original_school.PNG" width="700">
+
+Adjusted data
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_school.PNG" width="700">
