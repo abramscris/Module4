@@ -13,10 +13,10 @@ In order to have a closer look to verify and assure the grades scores for 9th gr
 As we can observe on the charts below when comparing the data, we had pull 461 tests that had null data. From this information we can assume that the difference before the data changes was minimum, representing less than 1% of the totals.
 
 Original data
-<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Originalanalysis_district.PNG" width="700">
+<img src="" width="700">
 
 Adjusted data
-<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted1.PNG" width="700">
+<img src="" width="700">
 
 
 
