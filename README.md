@@ -37,7 +37,7 @@ The first analysis shows Thomas High School ranked 2nd in the district. What mad
 After adjusting the 9th grade data, Thomas High School ranked at 8th place.
 
 Original data
-<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Original_03.png" width="700">
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Original_03--.png" width="700">
 
 Adjusted data
 <img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_03.png" width="700">
