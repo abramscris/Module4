@@ -26,10 +26,10 @@ After exanimating the original data, the Thomas High School was placed at 91% ov
 On the charts below we can see that removing the 9th grade students the data set had change considerably, with a descending overall passage from 91% to 65%.
 
 Original data
-<img src="" width="700">
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/original_01.png" width="700">
 
 Adjusted data
-<img src="" width="700">
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/adjusted_01.png" width="700">
 
 * How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools
 
