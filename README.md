@@ -41,3 +41,14 @@ Original data
 
 Adjusted data
 <img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_03.png" width="700">
+
+#### How does replacing the ninth-grade scores affect the Math and reading scores by grade
+
+On this part of the analysis, we can determine that the data replacement did not change the math and reading scores by grade. As we can observe that on the summary for Thomas High School the amount displayed as “nan” in both charts.
+
+Original data
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Original_04.png" width="500">
+
+Adjusted data
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_04.png" width="500">
+
