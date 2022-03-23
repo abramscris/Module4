@@ -33,7 +33,7 @@ Adjusted data
 
 * How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools
 
-The first analysis shows Thomas High School ranked 2nd in the district. What made the board request more information and details on this data, suspecting validity on this data.
+The first analysis shows Thomas High School ranked 2nd in the district. What made the board request more information and details on this data, suspecting the veracity of information.
 After adjusting the 9th grade data, Thomas High School ranked at 8th place.
 
 Original data
