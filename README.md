@@ -52,7 +52,16 @@ Math scores
 Reading scores
 <img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_04.png" width="250">
 
-### How does replacing the ninth-grade scores affect the Scores by school spending
+#### How does replacing the ninth-grade scores affect the Scores by school spending
 
-Facing the School Speeding summary, we can conclude that the data modifications did not impact the spending ranges for the average math scores or average reading scores. Nevertheless, this data change impact directly the ranges for passing percentages with the changes of 6% decrease in passing math, a 7% decrease in passing reading, and a 6% decrease in overall passing and in the $630-644 spending range.
+Facing the School Speeding summary, we can conclude that the data modifications did not have a big impact on the spending ranges for the average math scores or average reading score. We can notice that Thomas High School is on the overall range off $630-644.
+
+#### How does replacing the ninth-grade scores affect the Scores by school size
+	
+It was discovered with that the Average Scores and Passing Percentages do not increase as spending per student increases. However, the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). What leads us to believe that there are more relevant factors than funding that decide average student scores.
+
+
+
+
+
 
