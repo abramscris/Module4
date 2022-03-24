@@ -46,9 +46,13 @@ Adjusted data
 
 On this part of the analysis, we can determine that the data replacement did not change the math and reading scores by grade. As we can observe that on the summary for Thomas High School the amount displayed as “nan” in both charts.
 
-Original data
-<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Original_04.png" width="500">
+Math scores
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Original_04.png" width="249">
 
-Adjusted data
-<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_04.png" width="500">
+Reading scores
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_04.png" width="250">
+
+### How does replacing the ninth-grade scores affect the Scores by school spending
+
+Facing the School Speeding summary, we can conclude that the data modifications did not impact the spending ranges for the average math scores or average reading scores. Nevertheless, this data change impact directly the ranges for passing percentages with the changes of 6% decrease in passing math, a 7% decrease in passing reading, and a 6% decrease in overall passing and in the $630-644 spending range.
 
