@@ -54,7 +54,7 @@ Reading scores
 
 #### How does replacing the ninth-grade scores affect the Scores by school spending
 
-Facing the School Speeding summary, we can conclude that the data modifications did not have a big impact on the spending ranges for the average math scores or average reading score. We can notice that Thomas High School is on the overall range off $630-644.
+Facing the School spending summary, we can conclude that the data modifications did not have a big impact on the spending ranges for the average math scores or average reading score. We can notice that Thomas High School is on the overall range of $630-644.
 
 #### How does replacing the ninth-grade scores affect the Scores by school size
 	
