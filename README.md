@@ -62,7 +62,7 @@ Facing the School spending summary, we can conclude that the data modifications 
 	
 It was discovered with that the Average Scores and Passing Percentages do not increase as spending per student increases. However, the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). What leads us to believe that there are more relevant factors than funding that decide average student scores.
 
-<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/School_size_01.png" width="700">
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/School_size.png" width="700">
 
 #### How does replacing the ninth-grade scores affect the Scores by school type
 
