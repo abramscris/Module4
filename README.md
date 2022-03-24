@@ -68,6 +68,4 @@ It was discovered with that the Average Scores and Passing Percentages do not in
 
 With the information gathered we can assume that the Charter schools performed better than District schools. The top five schools with the highest overall passing percentages are all Charter schools, on the opposite side at the bottom five are all District Schools. Concluding that Charter schools in this analysis were typically characterized as "Small" and "Medium" size schools and have a 36% higher overall passing percentage than District schools.
 
-<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Scoreby_type.png"> width="700">
-
-
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Scoreby_type.png" width="700">
