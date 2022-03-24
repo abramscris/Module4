@@ -3,7 +3,7 @@
 ## Overview Analysis School District 
 
 The school district has requested a preview of different key metrics by school campus and refined by district level.
-With this perspective the following project intend to show a clear analysis focused on Math performance and Reading scores disassembling several different ways for display data in order to help on decisions for the upcoming boar meeting. After a deeper look into the data the school board have requested more information on Thomas High School specifically for the 9th grade once there was some doubt about legitimacy of grades. Further on the data was separated and investigated in different perspectives.
+With this perspective the following project intend to show a clear analysis focused on Math performance and Reading scores disassembling several different ways for display data in order to help on decisions for the upcoming board meeting. After a deeper look into the data the school board have requested more information on Thomas High School specifically for the 9th grade once there was some doubt about legitimacy of grades. Further on the data was separated and investigated in different perspectives.
 
 ## Results
 
