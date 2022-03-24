@@ -56,12 +56,16 @@ Reading scores
 
 Facing the School spending summary, we can conclude that the data modifications did not have a big impact on the spending ranges for the average math scores or average reading score. We can notice that Thomas High School is on the overall range of $630-644.
 
+<img src="https://github.com/abramscris/School_District_Analysis-/blob/main/Resources/Adjusted_03.png" width="700">
+
 #### How does replacing the ninth-grade scores affect the Scores by school size
 	
 It was discovered with that the Average Scores and Passing Percentages do not increase as spending per student increases. However, the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). What leads us to believe that there are more relevant factors than funding that decide average student scores.
 
 
+#### How does replacing the ninth-grade scores affect the Scores by school type
 
+With the information gathered we can assume that the Charter schools performed better than District schools. The top five schools with the highest overall passing percentages are all Charter schools, on the opposite side at the bottom five are all District Schools. Concluding that Charter schools in this analysis were typically characterized as "Small" and "Medium" size schools and have a 36% higher overall passing percentage than District schools.
 
 
 
